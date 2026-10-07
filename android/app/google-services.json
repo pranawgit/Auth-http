@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030592150346",
+    "project_id": "phonenumauth-2730d",
+    "storage_bucket": "phonenumauth-2730d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030592150346:android:44b23315a6246fd60adfb3",
+        "android_client_info": {
+          "package_name": "com.example.counter_cubit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCWl6Hwwtvyyt2SWC2lsGNEkmhVPa8Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
